@@ -7,12 +7,12 @@ The famous [iris dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set)!
 
 ```python
 import pandas as pd
-iris = pd.read_csv("")
+iris = pd.read_csv("https://raw.githubusercontent.com/practiceprobs/datasets/main/iris/iris.csv")
 ```
 
 ### R data.table
 
 ```r
 library(data.table)
-iris = fread("")
+iris = fread("https://raw.githubusercontent.com/practiceprobs/datasets/main/iris/iris.csv")
 ```
