@@ -12,9 +12,7 @@ A tabular dataset of movies and tv shows ("titles") on Netflix.
 | 3    |s3      |TV Show |Ganglands  |Julien ... |Sami Bo... |           |Septemb... |         2021|TV-MA  |1 Season  |Crime T... |To prot...  |
 | 4    |s4      |TV Show |Jailbir... |           |           |           |Septemb... |         2021|TV-MA  |1 Season  |Docuser... |Feuds, ...  |
 | 5    |s5      |TV Show |Kota Fa... |           |Mayur M... |India      |Septemb... |         2021|TV-MA  |2 Seasons |Interna... |In a ci...  |
-| 6    |s6      |TV Show |Midnigh... |Mike Fl... |Kate Si... |           |Septemb... |         2021|TV-MA  |1 Season  |TV Dram... |The arr...  |
 | ...  |...     |...     |...        |...        |...        |...        |...        |         ... |...    |...       |...        |...         |
-| 8802 |s8802   |Movie   |Zinzana    |Majid A... |Ali Sul... |United ... |March 9... |         2015|TV-MA  |96 min    |Dramas,... |Recover...  |
 | 8803 |s8803   |Movie   |Zodiac     |David F... |Mark Ru... |United ... |Novembe... |         2007|R      |158 min   |Cult Mo... |A polit...  |
 | 8804 |s8804   |TV Show |Zombie ... |           |           |           |July 1,... |         2018|TV-Y7  |2 Seasons |Kids' T... |While l...  |
 | 8805 |s8805   |Movie   |Zombieland |Ruben F... |Jesse E... |United ... |Novembe... |         2009|R      |88 min    |Comedie... |Looking...  |
