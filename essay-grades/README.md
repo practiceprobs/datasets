@@ -25,14 +25,12 @@ A computer-generated toy dataset of essay scores for 50 students from 5 differen
 
 ```python
 import pandas as pd
-names = pd.read_csv("https://raw.githubusercontent.com/practiceprobs/datasets/main/essay-grades/grades.csv")
+grades = pd.read_csv("https://raw.githubusercontent.com/practiceprobs/datasets/main/essay-grades/grades.csv")
 ```
 
 ### R data.table
 
 ```r
 library(data.table)
-names = fread("https://raw.githubusercontent.com/practiceprobs/datasets/main/essay-grades/grades.csv")
+grades <- fread("https://raw.githubusercontent.com/practiceprobs/datasets/main/essay-grades/grades.csv")
 ```
-
-[babynames R package]: https://cran.r-project.org/web/packages/babynames/index.html

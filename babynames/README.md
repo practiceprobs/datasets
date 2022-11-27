@@ -30,7 +30,7 @@ names = pd.read_csv("https://raw.githubusercontent.com/practiceprobs/datasets/ma
 
 ```r
 library(data.table)
-names = fread("https://raw.githubusercontent.com/practiceprobs/datasets/main/babynames/babynames.csv")
+names <- fread("https://raw.githubusercontent.com/practiceprobs/datasets/main/babynames/babynames.csv")
 ```
 
 [babynames R package]: https://cran.r-project.org/web/packages/babynames/index.html
